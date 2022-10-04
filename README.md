@@ -1,5 +1,8 @@
 # Ensemble_Backend_Project_IfrazAhmed
 
+
+API to manage, search and like/dislike movies.
+
 # Setup Guide
 
 ```

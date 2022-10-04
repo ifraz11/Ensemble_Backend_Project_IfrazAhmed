@@ -1,4 +1,4 @@
-#Ensemble Backend Project. I Ahmed.
+#Ensemble Backend Project by I Ahmed
 
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
